@@ -6,9 +6,9 @@ This repository concludes the papers and codes about airborne lidar point cloud.
 
 [[DALES](https://arxiv.org/abs/2004.11985)] DALES: A Large-scale Aerial LiDAR Data Set for Semantic Segmentation. [__`seg.`__]
 
-[[ISPRS Vaihingen Dataset](http://www2.isprs.org/commissions/comm3/wg4/3d-semantic-labeling.html)]
+[[ISPRS Vaihingen Dataset](https://seafile.projekt.uni-hannover.de/f/6a06a837b1f349cfa749)] 3D semantic labeling [__`seg.`__]
 
-[[Urb3DCD](https://www.mdpi.com/2072-4292/13/13/2629)]Change Detection in Urban Point Clouds: An Experimental Comparison with Simulated 3D Datasets. [__`cd.`__]
+[[Urb3DCD](https://www.mdpi.com/2072-4292/13/13/2629)] Change Detection in Urban Point Clouds: An Experimental Comparison with Simulated 3D Datasets. [__`cd.`__]
 
 ## Classification
 
