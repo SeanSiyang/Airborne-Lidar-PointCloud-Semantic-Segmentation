@@ -152,6 +152,8 @@ This repository concludes the **papers**, **codes** and **datasets** about airbo
 
 - SQN: Weakly-Supervised Semantic Segmentation of Large-Scale 3D Point Clouds[[PDF]](https://arxiv.org/pdf/2104.04891v3.pdf)[[Codes]](https://github.com/QingyongHu/SQN)
 - OpenGF: An Ultra-Large-Scale Ground Filtering Dataset Built Upon Open ALS Point Clouds Around the World[[PDF]](https://arxiv.org/pdf/2101.09641v2.pdf)[[Codes]](https://github.com/Nathan-UW/OpenGF)
+- SCF-Net: Learning Spatial Contextual Features for Large-Scale Point Cloud Segmentation[[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_SCF-Net_Learning_Spatial_Contextual_Features_for_Large-Scale_Point_Cloud_Segmentation_CVPR_2021_paper.pdf)[[Codes]](https://github.com/leofansq/SCF-Net)
+- BAAF-Net: Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion[[PDF]](https://arxiv.org/abs/2103.07074)[[Codes]](https://github.com/ShiQiu0419/BAAF-Net)
 
 ### 2019
 
